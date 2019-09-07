@@ -1,0 +1,17 @@
+{'传入参数': {'password': '1234',
+ 'loginName': 'admin',
+ 'tenantCode': ''}
+}
+
+
+
+{'返回字段': (1,
+ {'recordsTotal': '',
+ 'message': '',
+ 'code': 0,
+ 'data': {'userName': '管理员',
+ 'deptName': '慧正通软',
+ 'accessToken': 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVz80vG9MAQCWZ9ghBKNZUVR'}
+,
+ 'success': True}
+)}

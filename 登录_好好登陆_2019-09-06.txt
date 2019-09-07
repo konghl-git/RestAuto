@@ -1,0 +1,84 @@
+{'传入参数': {'password': '1234',
+ 'loginName': 'admin',
+ 'tenantCode': ''}
+}
+
+
+
+{'返回字段': (1,
+ {'recordsTotal': '',
+ 'message': '',
+ 'code': 0,
+ 'data': {'userName': '管理员',
+ 'deptName': '慧正通软',
+ 'accessToken': 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVy4Jb%2bzWSSw0wsP6TuwGpDf'}
+,
+ 'success': True}
+)}
+{'传入参数': {'password': '1234',
+ 'loginName': 'admin',
+ 'tenantCode': ''}
+}
+
+
+
+{'返回字段': (1,
+ {'recordsTotal': '',
+ 'message': '',
+ 'code': 0,
+ 'data': {'userName': '管理员',
+ 'deptName': '慧正通软',
+ 'accessToken': 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVy%2fA%2bWmAG0Fy%2b03h5Ulre3L'}
+,
+ 'success': True}
+)}
+{'传入参数': {'password': '1234',
+ 'loginName': 'admin',
+ 'tenantCode': ''}
+}
+
+
+
+{'返回字段': (1,
+ {'recordsTotal': '',
+ 'message': '',
+ 'code': 0,
+ 'data': {'userName': '管理员',
+ 'deptName': '慧正通软',
+ 'accessToken': 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVxAM6RtIlZZ2Ye2uVBfZc3I'}
+,
+ 'success': True}
+)}
+2019-09-06 19:03:59{'传入参数': {'password': '1234',
+ 'loginName': 'admin',
+ 'tenantCode': ''}
+}
+
+
+
+{'返回字段': (1,
+ {'recordsTotal': '',
+ 'message': '',
+ 'code': 0,
+ 'data': {'userName': '管理员',
+ 'deptName': '慧正通软',
+ 'accessToken': 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVwKTEWyWFXfhWfAoeSFnPzx'}
+,
+ 'success': True}
+)}
+2019-09-06 19:04:52:  {'传入参数': {'password': '1234',
+ 'loginName': 'admin',
+ 'tenantCode': ''}
+}
+
+
+2019-09-06 19:04:52:  {'返回字段': (1,
+ {'recordsTotal': '',
+ 'message': '',
+ 'code': 0,
+ 'data': {'userName': '管理员',
+ 'deptName': '慧正通软',
+ 'accessToken': 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVyPBmy9oU4ktiYhOn9HM3l6'}
+,
+ 'success': True}
+)}

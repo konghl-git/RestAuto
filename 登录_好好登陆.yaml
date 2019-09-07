@@ -1,0 +1,10 @@
+"\u4F20\u5165\u53C2\u6570": {loginName: admin, password: '1234', tenantCode: ''}
+"\u8FD4\u56DE\u5B57\u6BB5": !!python/tuple
+- 1
+- !!python/unicode 'code': 0
+  !!python/unicode 'data': {!!python/unicode 'accessToken': !!python/unicode 'TUfKbStH79iCdo3J%2f%2bQXz%2f9NrA3ikDYoprzftK8uxVyPBmy9oU4ktiYhOn9HM3l6',
+    !!python/unicode 'deptName': "\u6167\u6B63\u901A\u8F6F", !!python/unicode 'userName': "\u7BA1\u7406\
+      \u5458"}
+  !!python/unicode 'message': !!python/unicode ''
+  !!python/unicode 'recordsTotal': !!python/unicode ''
+  !!python/unicode 'success': true
