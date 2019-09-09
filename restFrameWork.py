@@ -195,6 +195,11 @@ class Baseframe(wx.Frame):
         panel = wx.Panel(self, -1)
         panel.SetBackgroundColour("White")
 
+    def create_text(self):
+        """
+        创建文本输入框
+        :return:
+        """
 
 
 if __name__ == '__main__':
