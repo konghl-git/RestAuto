@@ -117,7 +117,10 @@ def show_menu(level):
     """
     conn = sqlite3.connect(data)
     cur = conn.cursor()
-    cur.execute("SELECT * FROM menu WHERE level='%d'" % level)
+    try:
+        cur.execute("SELECT * FROM menu WHERE level='%d'" % level)
+    except sqlite3.OperationalError as e:
+        return None
     all_data = cur.fetchall()
     cur.close()
     conn.close()
